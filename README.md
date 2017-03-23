@@ -1,3 +1,2 @@
-Max net
+Estrutura Inicial para projetos com CI
 
-* Other community or team contact
